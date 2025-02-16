@@ -1,0 +1,40 @@
+/* || Variables */
+
+:root {
+  /* Fonts */
+  --FF: "Nunito", sans-serif;
+  --FF-HEADINGS: "Fugaz One", cursive;
+  --FS: clamp(1rem, 2.2vh, 1.5rem);
+
+  /* Colors */
+  --BGCOLOR-FADE: rgb(252, 220, 160);
+  --BGCOLOR: #131313;
+  --BGIMAGE: linear-gradient(to bottom, var(--BGCOLOR), var(--BGCOLOR-FADE));
+  --BODY-BGCOLOR: #fff;
+  --BORDER-COLOR: #333;
+  --FONT-COLOR: #fff;
+
+  --HEADER-BGCOLOR: #000;
+  --HEADER-COLOR: #fff;
+
+  --HERO-BGCOLOR: #000;
+  --HERO-COLOR: #fff;
+
+  --NAV-BGCOLOR: #000;
+
+  --LINK-ACTIVE: orange;
+  --LINK-COLOR: hsla(0, 0%, 90%, 0.7);
+  --LINK-HOVER: #fff;
+
+  --BGBUTTON-DARK: #131313;
+  --BGFONT-DARK: #fff;
+  --BGFONT-LIGHT: #131313;
+  --BGBUTTON-LIGHT: #fff;
+
+  /* Borders */
+
+  /* Padding */
+  --PADDING-SIDE: 30px;
+
+  /* Margin */
+}
